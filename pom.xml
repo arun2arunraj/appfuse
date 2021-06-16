@@ -1369,7 +1369,7 @@
         <cargo.version>1.4.10</cargo.version>
         <cxf.version>3.0.1</cxf.version>
         <displaytag.version>1.2</displaytag.version>
-        <dwr.version>2.0.10</dwr.version>
+        <dwr.version>2.0.11-RELEASE</dwr.version>
         <ehcache-web.version>2.0.4</ehcache-web.version>
         <el.version>2.2</el.version>
         <fest.assert>1.4</fest.assert>
