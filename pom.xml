@@ -1369,7 +1369,7 @@
         <cargo.version>1.4.10</cargo.version>
         <cxf.version>3.0.1</cxf.version>
         <displaytag.version>1.2</displaytag.version>
-        <dwr.version>2.0.10</dwr.version>
+        <dwr.version>2.0.11-RELEASE</dwr.version>
         <ehcache-web.version>2.0.4</ehcache-web.version>
         <el.version>2.2</el.version>
         <fest.assert>1.4</fest.assert>
@@ -1406,8 +1406,8 @@
         <wiser.version>1.2</wiser.version>
         <wicket.version>6.18.0</wicket.version>
         <wicketstuff.version>6.17.0</wicketstuff.version>
-        <wicket-bootstrap.version>0.9.2</wicket-bootstrap.version>
-        <wicket-webjars.version>0.4.1</wicket-webjars.version>
+        <wicket-bootstrap.version>5.0.2</wicket-bootstrap.version>
+        <wicket-webjars.version>0.4.2</wicket-webjars.version>
         <wro4j.version>1.7.5</wro4j.version>
     </properties>
 </project>
