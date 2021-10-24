@@ -1398,7 +1398,7 @@
         <shale.version>1.0.5</shale.version>
         <sitemesh.version>2.4.2</sitemesh.version>
         <springmodules-validation.version>0.8</springmodules-validation.version>
-        <struts.version>2.3.20</struts.version>
+        <struts.version>2.5.16</struts.version>
         <struts-menu.version>2.4.3</struts-menu.version>
         <tapestry.version>5.4-beta-22</tapestry.version>
         <urlrewrite.version>4.0.3</urlrewrite.version>
