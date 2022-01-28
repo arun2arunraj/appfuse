@@ -1176,7 +1176,7 @@
                 <hibernate.dialect>org.hibernate.dialect.DerbyTenSevenDialect</hibernate.dialect>
                 <jdbc.groupId>org.apache.derby</jdbc.groupId>
                 <jdbc.artifactId>derbyclient</jdbc.artifactId>
-                <jdbc.version>${derby.version}</jdbc.version>
+                <jdbc.version>8.0.28</jdbc.version>
                 <jdbc.driverClassName>org.apache.derby.jdbc.ClientDriver</jdbc.driverClassName>
                 <jdbc.url><![CDATA[jdbc:derby://localhost/${db.name};create=true]]></jdbc.url>
                 <jdbc.username>any</jdbc.username>
@@ -1191,7 +1191,7 @@
                 <hibernate.dialect>org.hibernate.dialect.H2Dialect</hibernate.dialect>
                 <jdbc.groupId>com.h2database</jdbc.groupId>
                 <jdbc.artifactId>h2</jdbc.artifactId>
-                <jdbc.version>${h2.version}</jdbc.version>
+                <jdbc.version>8.0.28</jdbc.version>
                 <jdbc.driverClassName>org.h2.Driver</jdbc.driverClassName>
                 <jdbc.url><![CDATA[jdbc:h2:/tmp/${db.name};MULTI_THREADED=1]]></jdbc.url>
                 <jdbc.username>sa</jdbc.username>
@@ -1206,7 +1206,7 @@
                 <hibernate.dialect>org.hibernate.dialect.HSQLDialect</hibernate.dialect>
                 <jdbc.groupId>org.hsqldb</jdbc.groupId>
                 <jdbc.artifactId>hsqldb</jdbc.artifactId>
-                <jdbc.version>${hsqldb.version}</jdbc.version>
+                <jdbc.version>8.0.28</jdbc.version>
                 <jdbc.driverClassName>org.hsqldb.jdbcDriver</jdbc.driverClassName>
                 <jdbc.url><![CDATA[jdbc:hsqldb:/tmp/${db.name};shutdown=true]]></jdbc.url>
                 <jdbc.username>sa</jdbc.username>
@@ -1223,7 +1223,7 @@
                 <hibernate.dialect>org.hibernate.dialect.Oracle10gDialect</hibernate.dialect>
                 <jdbc.groupId>com.oracle</jdbc.groupId>
                 <jdbc.artifactId>ojdbc14</jdbc.artifactId>
-                <jdbc.version>10.2.0.2.0</jdbc.version>
+                <jdbc.version>8.0.28</jdbc.version>
                 <jdbc.driverClassName>oracle.jdbc.OracleDriver</jdbc.driverClassName>
                 <jdbc.url><![CDATA[jdbc:oracle:thin:@localhost:1521:XE]]></jdbc.url>
                 <jdbc.username>system</jdbc.username>
@@ -1237,7 +1237,7 @@
                 <hibernate.dialect>org.hibernate.dialect.PostgreSQLDialect</hibernate.dialect>
                 <jdbc.groupId>postgresql</jdbc.groupId>
                 <jdbc.artifactId>postgresql</jdbc.artifactId>
-                <jdbc.version>9.1-901-1.jdbc4</jdbc.version>
+                <jdbc.version>8.0.28</jdbc.version>
                 <jdbc.driverClassName>org.postgresql.Driver</jdbc.driverClassName>
                 <jdbc.url><![CDATA[jdbc:postgresql://localhost/${db.name}]]></jdbc.url>
                 <jdbc.username>postgres</jdbc.username>
@@ -1255,7 +1255,7 @@
                 <hibernate.dialect>org.hibernate.dialect.SQLServerDialect</hibernate.dialect>
                 <jdbc.groupId>net.sourceforge.jtds</jdbc.groupId>
                 <jdbc.artifactId>jtds</jdbc.artifactId>
-                <jdbc.version>1.3.0</jdbc.version>
+                <jdbc.version>8.0.28</jdbc.version>
                 <jdbc.driverClassName>net.sourceforge.jtds.jdbc.Driver</jdbc.driverClassName>
                 <jdbc.url><![CDATA[jdbc:jtds:sqlserver://localhost:1433/${db.name}]]></jdbc.url>
                 <jdbc.username>sa</jdbc.username>
@@ -1348,7 +1348,7 @@
         <hibernate.dialect>org.hibernate.dialect.MySQL5InnoDBDialect</hibernate.dialect>
         <jdbc.groupId>mysql</jdbc.groupId>
         <jdbc.artifactId>mysql-connector-java</jdbc.artifactId>
-        <jdbc.version>5.1.27</jdbc.version>
+        <jdbc.version>8.0.28</jdbc.version>
         <jdbc.driverClassName>com.mysql.jdbc.Driver</jdbc.driverClassName>
         <jdbc.url>
             <![CDATA[jdbc:mysql://localhost/${db.name}?createDatabaseIfNotExist=true&amp;useUnicode=true&amp;characterEncoding=utf-8&amp;autoReconnect=true]]>
