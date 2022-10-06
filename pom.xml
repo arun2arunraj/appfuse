@@ -1391,7 +1391,7 @@
         <junit.version>4.12</junit.version>
         <omnifaces.version>1.8.1</omnifaces.version>
         <prettyfaces.version>3.3.3</prettyfaces.version>
-        <primefaces.version>5.1</primefaces.version>
+        <primefaces.version>12.0.0</primefaces.version>
         <primefaces-bootstrap.version>1.0.10</primefaces-bootstrap.version>
         <selenium.version>2.37.1</selenium.version>
         <servlet-api.version>3.1.0</servlet-api.version>
