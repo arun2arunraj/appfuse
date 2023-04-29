@@ -1385,7 +1385,7 @@
         <jboss-logging.version>3.2.0.Beta1</jboss-logging.version>
         <jetty.version>9.2.1.v20140609</jetty.version>
         <jpa.version>2.1</jpa.version>
-        <json.version>20140107</json.version>
+        <json.version>20230227</json.version>
         <jsp.version>2.1</jsp.version>
         <jquery-cookie.version>1.3.1</jquery-cookie.version>
         <junit.version>4.12</junit.version>
