@@ -1405,7 +1405,7 @@
         <webtest.version>1.0.0</webtest.version>
         <wiser.version>1.2</wiser.version>
         <wicket.version>6.18.0</wicket.version>
-        <wicketstuff.version>6.17.0</wicketstuff.version>
+        <wicketstuff.version>10.7.0</wicketstuff.version>
         <wicket-bootstrap.version>0.9.2</wicket-bootstrap.version>
         <wicket-webjars.version>0.4.1</wicket-webjars.version>
         <wro4j.version>1.7.5</wro4j.version>
